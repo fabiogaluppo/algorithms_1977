@@ -25,3 +25,9 @@ Uma homenagem ao artigo Algorithms por Don Knuth para Scientific American Abril 
 ### Resumo dos Algoritmos em sua versão Programação Funcional e Caixa Preta (F#) 
 
 ![Algorithms 1977 imagem 4](https://github.com/fabiogaluppo/algorithms_1977/blob/main/src/images/algorithms_1977-4.PNG)
+
+## License
+
+MIT
+
+**Free Software, Hell Yeah!**
