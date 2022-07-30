@@ -18,10 +18,10 @@ Uma homenagem ao artigo Algorithms por Don Knuth para Scientific American Abril 
 
 ![Algorithms 1977 imagem 1](https://github.com/fabiogaluppo/algorithms_1977/blob/main/src/images/algorithms_1977-1.png)
 
-### Computação com Arte (C++)
+### Computação como Arte (C++)
 
 ![Algorithms 1977 imagem 3](https://github.com/fabiogaluppo/algorithms_1977/blob/main/src/images/algorithms_1977-3.png)
 
-### Resumo dos Algoritmos em sua versão Funcional e Caixa Preta (F#) 
+### Resumo dos Algoritmos em sua versão Programação Funcional e Caixa Preta (F#) 
 
 ![Algorithms 1977 imagem 4](https://github.com/fabiogaluppo/algorithms_1977/blob/main/src/images/algorithms_1977-4.PNG)
