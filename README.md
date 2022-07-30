@@ -5,7 +5,8 @@ Uma homenagem ao artigo Algorithms por Don Knuth para Scientific American Abril 
 ![Algorithms 1977](https://github.com/fabiogaluppo/algorithms_1977/blob/main/src/images/Algoritmos%20-%20LibertyTech%20-%2028-06-2022.PNG)
 
 > [Live Algoritmos e Linguagens de Programação (Fabio Galuppo) no canal YouTube da LibertyTech (28/06/2022)](https://www.youtube.com/watch?v=J2mCOVEBL0M)
-> ![Slides da apresentação](https://github.com/fabiogaluppo/algorithms_1977/blob/main/Algoritmos%20-%202022%20-%20Fabio%20Galuppo.pdf)
+
+> [Slides da apresentação](https://github.com/fabiogaluppo/algorithms_1977/blob/main/Algoritmos%20-%202022%20-%20Fabio%20Galuppo.pdf)
 
 ### Demonstração usada durante a Live (C++)
 
